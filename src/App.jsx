@@ -2,10 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
-<<<<<<< HEAD
-import Suma from './suma'
-import Calculadora from './calcualdora'
-=======
+
 import Suma from './Suma'
 import Calculadora from './Calcualdora'
 >>>>>>> 379f527 (Initial calculator project)
